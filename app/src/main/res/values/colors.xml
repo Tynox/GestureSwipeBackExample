@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#3f51b5</color>
+    <color name="primaryDark">#303f9f</color>
+    <color name="primaryLight">#c5cae9</color>
+    <color name="text">#ffffff</color>
+    <color name="colorAccent">#9e9e9e</color>
+    <color name="primaryText">#ffffff</color>
+    <color name="secondaryText">#727272</color>
+    <color name="divider">#b6b6b6</color>
+
+    <color name="fragment_main_floating_background">#ccffffff</color>
+
+</resources>
